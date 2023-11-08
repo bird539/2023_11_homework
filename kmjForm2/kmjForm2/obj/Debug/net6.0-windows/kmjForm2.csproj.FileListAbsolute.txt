@@ -1,0 +1,17 @@
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\bin\Debug\net6.0-windows\kmjForm2.exe
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\bin\Debug\net6.0-windows\kmjForm2.deps.json
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\bin\Debug\net6.0-windows\kmjForm2.runtimeconfig.json
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\bin\Debug\net6.0-windows\kmjForm2.dll
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\bin\Debug\net6.0-windows\kmjForm2.pdb
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.csproj.AssemblyReference.cache
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.Form1.resources
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.csproj.GenerateResource.cache
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.AssemblyInfoInputs.cache
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.AssemblyInfo.cs
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.csproj.CoreCompileInputs.cache
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.dll
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\refint\kmjForm2.dll
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.pdb
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\kmjForm2.genruntimeconfig.cache
+C:\Users\syu\Desktop\kmjForm2\kmjForm2\obj\Debug\net6.0-windows\ref\kmjForm2.dll

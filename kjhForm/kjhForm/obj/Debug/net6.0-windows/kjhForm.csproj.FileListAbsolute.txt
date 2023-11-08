@@ -1,0 +1,17 @@
+C:\Users\syu\Desktop\kjhForm\kjhForm\bin\Debug\net6.0-windows\kjhForm.exe
+C:\Users\syu\Desktop\kjhForm\kjhForm\bin\Debug\net6.0-windows\kjhForm.deps.json
+C:\Users\syu\Desktop\kjhForm\kjhForm\bin\Debug\net6.0-windows\kjhForm.runtimeconfig.json
+C:\Users\syu\Desktop\kjhForm\kjhForm\bin\Debug\net6.0-windows\kjhForm.dll
+C:\Users\syu\Desktop\kjhForm\kjhForm\bin\Debug\net6.0-windows\kjhForm.pdb
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.csproj.AssemblyReference.cache
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.Form1.resources
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.csproj.GenerateResource.cache
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.AssemblyInfoInputs.cache
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.AssemblyInfo.cs
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.csproj.CoreCompileInputs.cache
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.dll
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\refint\kjhForm.dll
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.pdb
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\kjhForm.genruntimeconfig.cache
+C:\Users\syu\Desktop\kjhForm\kjhForm\obj\Debug\net6.0-windows\ref\kjhForm.dll
