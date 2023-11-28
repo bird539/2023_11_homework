@@ -1,0 +1,7 @@
+﻿  LinkedQueue.c
+C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\structC\structC\LinkedQueue.c(43,23): warning C4033: 'deLQUeue'은(는) 값을 반환해야 합니다.
+C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\structC\structC\LinkedQueue.c(57,24): warning C4033: 'peekLQ'은(는) 값을 반환해야 합니다.
+C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\structC\structC\LinkedQueue.c(80,13): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\structC\structC\LinkedQueue.c(52): warning C4715: 'deLQUeue': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\structC\structC\LinkedQueue.c(62): warning C4715: 'peekLQ': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  structC.vcxproj -> C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\structC\x64\Debug\structC.exe
