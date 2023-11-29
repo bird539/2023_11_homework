@@ -1,8 +1,2 @@
 ﻿  avl.c
-  bst.c
-C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\AVLtree\AVLtree\bst.h(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-  ex7_5.c
-C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\AVLtree\AVLtree\ex7_5.c(20,2): warning C4013: 'searchBST'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  node.c
-  코드를 생성하고 있습니다...
   AVLtree.vcxproj -> C:\Users\kimminjun\Desktop\2023_11_homework-main\자료구조\AVLtree\x64\Debug\AVLtree.exe
